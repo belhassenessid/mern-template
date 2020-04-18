@@ -1,0 +1,1 @@
+in index.html change the title ,the logo and add you name in 'author'
