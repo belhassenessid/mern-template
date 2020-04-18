@@ -12,4 +12,5 @@ make the code between <Router>code here</Router> and call components inside them
 import <component Name> from "./import/fileName.extension"
 
 >npm install axios
+>npm install react-datepicker
 create a components folder to contain the components defining files
